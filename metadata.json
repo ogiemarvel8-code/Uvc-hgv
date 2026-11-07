@@ -1,0 +1,6 @@
+{
+  "name": "PrimeKey Realty — Nigeria's Premier Real Estate Agency",
+  "description": "Discover verified luxury duplexes, contemporary apartments, and prime investment properties across Lagos, Abuja, Port Harcourt, Ibadan, Enugu, Uyo, and Owerri with PrimeKey Realty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
